@@ -8,4 +8,4 @@
 
 此网站**仅作参考**，不代表**实际价格**。
 
-如果需要预览本网站，请点击(此处)[https://pwp-qwq.github.io/BiliValue-Evaluator.html]访问。
+如果需要预览本网站，请点击[此处](https://pwp-qwq.github.io/BiliValue-Evaluator.html)访问。
